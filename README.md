@@ -2,9 +2,9 @@
 * You should expect some bugs that may appear, Because its not fully implemented.
 * This project will never get an update.
 * Use original **vphysics_client.so** or **vphysics.dll** closed-source library for the best experience. (like im doing)
-* Physics are not importnant that you dont need the source code.
+* Since the physics are already sufficient and good, You dont need the Source Code.
    * You can use **Ghidra** or **IDA Free** for Reverse Engineer it and modify these closed source libraries.
-   * Even without modifying, this proprietary binaries are very good.
+   * Even without modifying, this proprietary binaries is very good.
  
 ## Known Bugs 
 
