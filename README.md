@@ -6,20 +6,33 @@
    * You can use **Ghidra** or **IDA Free** for Reverse Engineer it and modify these closed source libraries.
    * Even without modifying, this proprietary binaries is very good.
  
-## Known Bugs/Issues
+# About Physics
 
-### Kisak-Strike / CS:GO Source Code
+### OSVPhysics
 
-#### OSVPhysics
+#### Issues
 * Some objects has a weird physics, espicialy in cs_militia.
 * Some props may be in a different place.
 * If you shoot some big props too much, then it will fling.
 
-#### Kisak Physics
+#### Other
+* Still being used as default in this Kisak-Strike Fork: https://github.com/zwexy/kosak-strike
+
+### Kisak Physics
+
+#### Issues
 * Window parts is very buggy, they fly to void.
 * A lot of maps crashing.
 
-#### Bullet Physics
+#### Other
+Still being used in Kisak-Strike: https://github.com/zwexy/Linux-Strike
+
+### Bullet Physics
+
+#### Issues
 * Missing Too much effects.
 * Broken, just its good for ragdolls.
 * Objects are acting very uglyish.
+
+#### Other
+Still being used in Kisak-Strike: https://github.com/zwexy/Linux-Strike
