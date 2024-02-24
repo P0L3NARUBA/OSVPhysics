@@ -32,8 +32,8 @@ Still being used in Kisak-Strike: https://github.com/zwexy/Linux-Strike
 
 #### Issues
 * Missing Too much effects.
-* Broken, just its good for ragdolls.
-* Objects are acting very uglyish.
+* Broken but good for ragdolls.
+* Objects acting very uglyish.
 
 #### Other
 Still being used in Kisak-Strike: https://github.com/zwexy/Linux-Strike
