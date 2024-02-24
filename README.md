@@ -20,3 +20,7 @@
 * Missing Too much effects.
 * Broken, just its good for ragdolls.
 * Objects are acting very uglyish.
+
+
+- Other than that, the best & much stable physics library is **Original VPhysics** (**vphysics_client.so** or **vphysics.dll**)
+- Closed-Source but its better.
