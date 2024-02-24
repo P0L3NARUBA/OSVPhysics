@@ -6,7 +6,7 @@
    * You can use **Ghidra** or **IDA Free** for Reverse Engineer it and modify these closed source libraries.
    * Even without modifying, this proprietary binaries is very good.
  
-## Known Bugs 
+## Known Bugs/Issues
 
 ### Kisak-Strike / CS:GO Source Code
 
@@ -23,7 +23,3 @@
 * Missing Too much effects.
 * Broken, just its good for ragdolls.
 * Objects are acting very uglyish.
-
-
-- Other than that, the best & much stable physics library is **Original VPhysics** (**vphysics_client.so** or **vphysics.dll**)
-- Closed-Source but its better.
