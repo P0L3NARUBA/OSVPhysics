@@ -5,7 +5,7 @@
    * Since the physics are already sufficient and good, You dont need the Source Code.
       * You can use **Ghidra** or **IDA Free** for Reverse Engineer it and modify these closed source libraries.
       * Even without modifying, this proprietary binaries still very good.
-   * Even me playing with the original vphysics, this repository is created just for research purposes. 
+   * I'm Even playing with the original vphysics, this repository is created just for research purposes. 
  
 # About Physics
 
