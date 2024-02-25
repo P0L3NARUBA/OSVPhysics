@@ -23,10 +23,10 @@
 
 #### Issues
 * Window parts is very buggy, they fly to void.
-* A lot of maps crashing.
+* These maps(training1, cs_militia) are mostly crashing but sometimes other maps crashing too.
 
 #### Other
-Still being used in Kisak-Strike: https://github.com/zwexy/Linux-Strike
+Still being used as optional in Kisak-Strike: https://github.com/zwexy/Linux-Strike
 
 ### Bullet Physics
 
@@ -36,4 +36,4 @@ Still being used in Kisak-Strike: https://github.com/zwexy/Linux-Strike
 * Objects acting very uglyish.
 
 #### Other
-Still being used in Kisak-Strike: https://github.com/zwexy/Linux-Strike
+Still being used as optional in Kisak-Strike: https://github.com/zwexy/Linux-Strike
