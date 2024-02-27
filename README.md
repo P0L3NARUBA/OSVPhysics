@@ -1,7 +1,8 @@
-# Warning
+# OSVPhysics
+Open Source VPhysics Implementation
 * You should expect some bugs that may appear, Because its not fully implemented. <br>
 
-# About Physics
+## About Physics
 
 ### OSVPhysics
 
