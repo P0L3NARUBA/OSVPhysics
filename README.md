@@ -8,29 +8,21 @@ This project will never get an update.
 
 ### OSVPhysics
 
-#### Issues
+#### Bugs & Issues
 * Some objects has a weird physics, espicialy in cs_militia. 
 * Some props may be in a different place.
 * If you shoot some big props too much, then it will fling.
 
-#### Other
-* Still being used as default in this Kisak-Strike Fork: https://github.com/zwexy/kosak-strike
-
 ### Kisak Physics
 
-#### Issues
+#### Bugs & Issues
 * Window parts is very buggy, they fly to void.
 * These maps(training1, cs_militia) are mostly crashing but sometimes other maps crashing too.
 
-#### Other
-Still being used as optional in Kisak-Strike: https://github.com/zwexy/Linux-Strike
-
 ### Bullet Physics
 
-#### Issues
+#### Bugs & Issues
 * Missing Too much effects.
 * Broken but good for ragdolls.
 * Objects acting very uglyish.
-
-#### Other
-Still being used as optional in Kisak-Strike: https://github.com/zwexy/Linux-Strike
+* Probably the worst physics engine ever.
